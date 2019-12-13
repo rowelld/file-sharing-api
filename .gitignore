@@ -9,7 +9,7 @@ logs
 **/*.backup.*
 **/*.back.*
 
-storage/*
+storage
 dist
 node_modules
 bower_componets
